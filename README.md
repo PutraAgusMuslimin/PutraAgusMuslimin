@@ -29,9 +29,6 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=PutraAgusMuslimin&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="PutraAgusMuslimin's GitHub Trophies" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=PutraAgusMuslimin&theme=radical&radius=10" alt="PutraAgusMuslimin's Activity Graph" />
-</p>
 
 
 # 💻 Tech Stack:
